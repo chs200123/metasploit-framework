@@ -26,3 +26,7 @@ download797.avast.com
 guru.avg.com
 osce8-p.activeupdate.trendmicro.com
 forefrontdl.microsoft.com
+updatekeepalive.mcafee.com
+platform.mcafee.com
+servicediscovery.ccs.mcafee.com
+sadownload.mcafee.com
